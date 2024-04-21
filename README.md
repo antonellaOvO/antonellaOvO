@@ -1,4 +1,5 @@
-## Hi there 👋 ### Welcome to my GitHub 🙂
+## Hi there 👋 
+### Welcome to my GitHub 🙂
 
 #### 👩‍💻 I am passionate about coding and I hope to share/learn my projects with you 🤝
 #### Feel free to comment whatever you want! 💬
